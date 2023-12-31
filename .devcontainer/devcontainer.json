@@ -1,0 +1,16 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "customizations": {
+        // Configure properties specific to VS Code.
+        "settings": {
+            "python.defaultInterpreterPath": "/home/codespace/.python/current/bin/python3"
+        },
+        "vscode": {
+            // Add the IDs of extensions you want installed when the container is created.
+            "extensions": [
+                "ms-vsliveshare.vsliveshare",
+                "ms-python.python"
+            ]
+        }
+    }
+}
