@@ -1,3 +1,3 @@
-# test-assignment-1
+# Generic Python Template
 
-Follow the instructions. Nuf' sed eh.
+Assignment instructions go here.
