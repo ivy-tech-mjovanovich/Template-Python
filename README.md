@@ -8,7 +8,7 @@ When coding, **do not delete any comments in the provided template.**
 
 In this program you will edit the file `XXX.py`. ...
 
-Make sure that any program input and output matches the format given in the example run exactly, including any capitalization, punctuation, and spacing.
+Make sure that any program input and output matches the format given in the example run exactly, including any capitalization, punctuation, and spacing. The program should work for any set of inputs - not just those specified in the example runs.
 
 _Example Run:_
 
@@ -20,7 +20,7 @@ _Example Run:_
 
 In this program you will edit the file `XXX.py`. ...
 
-Make sure that any program input and output matches the format given in the example run exactly, including any capitalization, punctuation, and spacing.
+Make sure that any program input and output matches the format given in the example run exactly, including any capitalization, punctuation, and spacing. The program should work for any set of inputs - not just those specified in the example runs.
 
 _Example Run:_
 
